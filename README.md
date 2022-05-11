@@ -15,6 +15,6 @@ Tasks made during intensive course "Python_Data_science" at School21
 
 + 04_clasterisation_unsupervised_learning - Задача: совершить кластеризация, используя методы KMeans, агломеративный метод, метод главных компонент, t-SNE, DBSCAN
 
-+ 05_sentiment_analysis - Задача: предсказать тональность твита
++ 05_sentiment_analysis - Задача: предсказать тональность твита. Из-за ограничений по размеру БД лежит не на гитхабе, а [здесь](https://drive.google.com/drive/folders/1SlJRl-9CsNLrI2qmVagrnmeX8E24aUbb?usp=sharing)
 
 + 06_neural_nets_and_image_classification - Задача: классифицировать изображения, используя нейросети
